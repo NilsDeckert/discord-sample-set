@@ -1,1 +1,1 @@
-# discord-sampel-set
+# discord-sample-set
